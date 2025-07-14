@@ -111,7 +111,7 @@
     <redirectTestOutputToFile>true</redirectTestOutputToFile>
     <testRetryCount>2</testRetryCount>
     <src.dir>src/main/java</src.dir>
-    <test.additional.args />
+    <test.additional.args/>
 
     <!-- dependencies -->
     <arquillian-cube.version>1.18.2</arquillian-cube.version>
@@ -123,7 +123,7 @@
     <commons-configuration.version>1.10</commons-configuration.version>
     <commons-compress.version>1.21</commons-compress.version>
     <commons-lang.version>2.6</commons-lang.version>
-    <commons-lang3.version>3.6</commons-lang3.version>
+    <commons-lang3.version>3.18.0</commons-lang3.version>
     <commons-io.version>2.7</commons-io.version>
     <bouncycastle.version>1.0.2.3</bouncycastle.version>
     <curator.version>5.1.0</curator.version>
